@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+.start.bat
+.pull_master.bat
