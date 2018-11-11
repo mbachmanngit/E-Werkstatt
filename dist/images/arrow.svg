@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.863 27.176">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #009de0;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="arrow-icon" transform="translate(-28.5 -57.5)">
+    <line id="line" class="cls-1" x1="25.37" transform="translate(31.492 71.088)"/>
+    <path id="path" class="cls-2" d="M12.588.5.5,12.588,12.588,24.676" transform="translate(29.5 58.5)"/>
+  </g>
+</svg>
